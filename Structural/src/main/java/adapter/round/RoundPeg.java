@@ -1,5 +1,8 @@
 package adapter.round;
 
+/**
+ * 方钉
+ */
 public class RoundPeg {
     private  double radius;
     public RoundPeg(){}

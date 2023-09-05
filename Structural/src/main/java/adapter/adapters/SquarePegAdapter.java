@@ -3,8 +3,6 @@ package adapter.adapters;
 import adapter.round.RoundPeg;
 import adapter.square.SquarePeg;
 
-import java.beans.PropertyEditorSupport;
-
 public class SquarePegAdapter extends RoundPeg {
     private SquarePeg peg;
 

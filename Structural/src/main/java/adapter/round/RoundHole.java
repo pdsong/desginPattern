@@ -1,5 +1,8 @@
 package adapter.round;
 
+/**
+ * 圆孔
+ */
 public class RoundHole {
     private double radius;
 
